@@ -2,7 +2,7 @@
 
 ##
 
-- 💻 Estudante de Javascript e Python.
+- 💻 Javascript e Python.
 
 - 🌱 Todo dia desenvolvendo minhas skills.
 
