@@ -1,6 +1,8 @@
-### Hey, 👋 Cristian Anderson aqui.
+### Oh Hey 👋 ...I'm Cristian Anderson.
 
 ##
+
+- Learning, learning and learning!
 
 - 💻 Javascript and Python.
 
@@ -18,7 +20,6 @@
 
 <div>
   <a href="https://github.com/crsxtian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crsxtian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crsxtian&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
