@@ -2,9 +2,9 @@
 
 ##
 
-- 💻 Javascript e Python.
+- 💻 Javascript and Python.
 
-- 🌱 Todo dia desenvolvendo minhas skills.
+- 🌱 Everyday improving my skills.
 
 ##
  <div style="display: inline_block"><br>
