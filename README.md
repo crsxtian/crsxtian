@@ -2,8 +2,6 @@
 
 ##
 
-- Learning, learning and learning!
-
 - 💻 Javascript and Python.
 
 - 🌱 Everyday improving my skills.
